@@ -1,3 +1,21 @@
 .sitetitle {
   text-align: center;
 }
+
+.visit-link {
+  font-size: 1.8em;
+  padding-top: 13rem;
+  text-align: center;
+}
+
+.site-body{
+  /* padding-top: 0.75em; */
+}
+
+.card {
+  margin-top: 0.75em;
+}
+
+.footer-card .card-text {
+  text-align: center;
+}
